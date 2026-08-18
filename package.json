@@ -1,0 +1,20 @@
+{
+  "name": "giraldoutils",
+  "version": "1.0.0",
+  "description": "utilities for myself",
+  "homepage": "https://github.com/liamgiraldo/giraldoutils#readme",
+  "bugs": {
+    "url": "https://github.com/liamgiraldo/giraldoutils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamgiraldo/giraldoutils.git"
+  },
+  "license": "ISC",
+  "author": "Liam Giraldo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
